@@ -6,24 +6,24 @@
   Copyright (c) 2016 Rubén García Pérez. 
 */
 "cpu_temp" = "CPU Temp:";
-"fan_speed" = "Vitesse du ventilateur:";
+"fan_speed" = "Vitesse du ventilateur gauche :";
 "cpu_temp_na" = "CPU Temp: Non disponible";
-"fan_speed_na" = "Vitesse du ventilateur: Non disponible";
+"fan_speed_na" = "Vitesse du ventilateur gauche : Non disponible";
 "enable_menu" = "Activer Turbo Boost";
 "disable_menu" = "Désactiver Turbo Boost";
 "open_login" = "Ouvrir à la connexion";
 "disable_login" = "Désactiver au lancement";
-"settings" = "Paramètres:";
-"donate" = "Donate...";
+"settings" = "Paramètres :";
+"donate" = "Faites un Don...";
 "about" = "À propos de...";
-"about_title" = "À propos de";
+"about_title" = "À propos de...";
 "quit" = "Quitter Turbo Boost Switcher";
 "updates" = "Rechercher les mises à jour...";
 "updates_title" = "Turbo Boost Switcher - Rechercher les mises à jour";
 
 "updates_progress" = "Vérification des mises à jour...";
 "updates_available" = "Une nouvelle version est disponible en téléchargement!";
-"updates_not_available" = "Vous possédez déjà la dernière version";
+"updates_not_available" = "Vous possédez déjà la dernière version!";
 "updates_error" = "Erreur lors de la vérification des mises à jour";
 
 "btn_cancel" = "Annuler";
@@ -32,20 +32,20 @@
 
 "author" = "Copyright (c) 2016 Rubén García Pérez";
 "web" = "rugarciap.com";
-"donate_msg" = "If you like this program, please, consider making a donation. Thanks!";
+"donate_msg" = "Si vous aimez cette application, faites un don pour soutenir le projet et ainsi obtenir la version PRO! On vous en remercie!";
 "license" = "Licence:";
 
 "checkUpdates" = "Vérifier au lancement";
 
-"etq_like_app_pro" = "Aimez-vous l'application? Pensez à vous aider en obtenant la version PRO! Merci!";
+"etq_like_app_pro" = "Aimez-vous l'application? Pensez à nous aider en obtenant la version PRO! Merci!";
 "btn_pro" = "Go Pro!";
 
 "alert_later" = "Plus tard";
 "alert_never_show_again" = "Ne plus afficher ce message";
-"alert_text" = "Aimez-vous l'application? Pensez à vous aider en obtenant la version PRO! :)";
-"alert_informative_text" = "Obtenir PRO permettra quelques fonctionnalités automatiques grand, notifications, mises à jour gratuites pour toujours et plus!";
+"alert_text" = "Aimez-vous l'application? Pensez à nous aider en obtenant la version PRO! :)";
+"alert_informative_text" = "Obtenir PRO permettra quelques fonctionnalités automatiques, ainsi que des notifications, mises à jour gratuites pour toujours et bien plus encore!";
 
-// Language menú
+// Language Menú
 "language" = "Langue";
 "language_en" = "Anglais";
 "language_es" = "Espagnol";
@@ -57,7 +57,7 @@
 "language_sv" = "Suédois (beta)";
 
 "language_change_confirmation" = "Êtes-vous sûr?";
-"language_change_informative_text" = "L'application sera redémarré pour appliquer les modifications.";
+"language_change_informative_text" = "L'application sera redémarrée pour appliquer les modifications.";
 
 // Status Menú
 "onOffMenu" = "Texte Barre d'état On / Off";
